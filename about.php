@@ -13,7 +13,7 @@
   <meta name="author" content="" />
   <link rel="shortcut icon" href="images/favicon.png" type="">
 
-  <title> Finexo </title>
+  <title> CryptoGuard </title>
 
   <!-- bootstrap core css -->
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
@@ -50,7 +50,7 @@
         <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="index.php">
             <span>
-              Finexo
+              CryptoGuard
             </span>
           </a>
 
@@ -70,10 +70,10 @@
                 <a class="nav-link" href="service.php">Services</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="why.php">Why Us</a>
+                <a class="nav-link" href="why.php">News</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="team.php">Team</a>
+                <a class="nav-link" href="team.php">Contact</a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#"> <i class="fa fa-user" aria-hidden="true"></i> Login</a>
@@ -100,8 +100,8 @@
           About <span>Us</span>
         </h2>
         <p>
-          Magni quod blanditiis non minus sed aut voluptatum illum quisquam aspernatur ullam vel beatae rerum ipsum voluptatibus
-        </p>
+          At CryptoGuard, we're passionate about demystifying the world of cryptocurrencies and making it accessible to everyone. Our team of experts combines years of experience in finance, technology, and blockchain to create a platform that empowers users with the tools and knowledge they need to navigate the crypto landscape confidently.
+          </p>
       </div>
       <div class="row">
         <div class="col-md-6 ">
@@ -112,16 +112,13 @@
         <div class="col-md-6">
           <div class="detail-box">
             <h3>
-              We Are Finexo
+              We Are CryptoGuard
             </h3>
             <p>
-              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-              in some form, by injected humour, or randomised words which don't look even slightly believable. If you
-              are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in
-              the middle of text. All
+              We are a dedicated team of crypto enthusiasts committed to revolutionizing the way people interact with digital currencies. Our mission is to provide a secure, user-friendly platform that bridges the gap between traditional finance and the exciting world of blockchain technology. With CryptoGuard, you're not just a user - you're a part of a community driving the future of finance.
             </p>
             <p>
-              Molestiae odio earum non qui cumque provident voluptates, repellendus exercitationem, possimus at iste corrupti officiis unde alias eius ducimus reiciendis soluta eveniet. Nobis ullam ab omnis quasi expedita.
+             Explore CryptoGuard today and experience a new level of confidence in managing your cryptocurrency investments.
             </p>
             <a href="">
               Read More
