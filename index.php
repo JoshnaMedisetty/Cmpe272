@@ -395,6 +395,19 @@
   <!-- end why section -->
 
   <!-- team section -->
+  <?php
+    $fh = fopen('contact.txt','r');
+    $name1 = fgets($fh);
+    $des1 = fgets($fh);
+    $name2 = fgets($fh);
+    $des2 = fgets($fh);
+    $name3 = fgets($fh);
+    $des3 = fgets($fh);
+    $name4 = fgets($fh);
+    // $des4 = fgets($fh);
+    fclose($fh);
+
+    ?>
   <section class="team_section layout_padding">
     <div class="container-fluid">
       <div class="heading_container heading_center">
@@ -411,12 +424,10 @@
                 <img src="images/team-1.jpg" class="img1" alt="">
               </div>
               <div class="detail-box">
-                <h5>
-                  Joseph Brown
-                </h5>
-                <p>
-                  Marketing Head
-                </p>
+                <h5><?php echo "$name1"; ?></h5>
+                                        
+                <p><?php echo "$des1"; ?></p>
+                  
               </div>
               <div class="social_box">
                 <a href="#">
@@ -443,12 +454,9 @@
                 <img src="images/team-2.jpg" class="img1" alt="">
               </div>
               <div class="detail-box">
-                <h5>
-                  Nancy White
-                </h5>
-                <p>
-                  Marketing Head
-                </p>
+                <h5><?php echo "$name2"; ?></h5>
+                                        
+                <p><?php echo "$des2"; ?></p>
               </div>
               <div class="social_box">
                 <a href="#">
@@ -475,12 +483,9 @@
                 <img src="images/team-3.jpg" class="img1" alt="">
               </div>
               <div class="detail-box">
-                <h5>
-                  Earl Martinez
-                </h5>
-                <p>
-                  Marketing Head
-                </p>
+                <h5><?php echo "$name3"; ?></h5>
+                                        
+                <p><?php echo "$des4"; ?></p>
               </div>
               <div class="social_box">
                 <a href="#">
@@ -507,12 +512,9 @@
                 <img src="images/team-4.jpg" class="img1" alt="">
               </div>
               <div class="detail-box">
-                <h5>
-                  Josephine Allard
-                </h5>
-                <p>
-                  Marketing Head
-                </p>
+                <h5><?php echo "$name4"; ?></h5>
+                                        
+                <p><?php echo "$des4"; ?></p>
               </div>
               <div class="social_box">
                 <a href="#">
