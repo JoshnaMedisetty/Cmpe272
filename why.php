@@ -13,7 +13,7 @@
   <meta name="author" content="" />
   <link rel="shortcut icon" href="images/favicon.png" type="">
 
-  <title> Finexo </title>
+  <title> CryptoGuard </title>
 
   <!-- bootstrap core css -->
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
@@ -70,10 +70,10 @@
                 <a class="nav-link" href="service.php">Services</a>
               </li>
               <li class="nav-item active">
-                <a class="nav-link" href="why.php">Why Us <span class="sr-only">(current)</span> </a>
+                <a class="nav-link" href="why.php">News<span class="sr-only">(current)</span> </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="team.php">Team</a>
+                <a class="nav-link" href="team.php">Contact</a>
               </li>
 <!--               <li class="nav-item">
                 <a class="nav-link" href="#"> <i class="fa fa-user" aria-hidden="true"></i> Login</a>
@@ -97,7 +97,7 @@
     <div class="container">
       <div class="heading_container heading_center">
         <h2>
-          Why Choose <span>Us</span>
+          News 
         </h2>
       </div>
       <div class="why_container">
@@ -107,11 +107,10 @@
           </div>
           <div class="detail-box">
             <h5>
-              Expert Management
+              Management Excellence
             </h5>
             <p>
-              Incidunt odit rerum tenetur alias architecto asperiores omnis cumque doloribus aperiam numquam! Eligendi corrupti, molestias laborum dolores quod nisi vitae voluptate ipsa? In tempore voluptate ducimus officia id, aspernatur nihil.
-              Tempore laborum nesciunt ut veniam, nemo officia ullam repudiandae repellat veritatis unde reiciendis possimus animi autem natus
+              In a strategic move to bolster its leadership team, CryptoGuard is proud to announce the appointment of John Smith as the new Chief Financial Officer. With over two decades of experience in financial management, Smith brings a wealth of expertise to guide CryptoGuard through its next phase of growth.
             </p>
           </div>
         </div>
@@ -121,11 +120,10 @@
           </div>
           <div class="detail-box">
             <h5>
-              Secure Investment
+              Secure Investment Strategies
             </h5>
             <p>
-              Incidunt odit rerum tenetur alias architecto asperiores omnis cumque doloribus aperiam numquam! Eligendi corrupti, molestias laborum dolores quod nisi vitae voluptate ipsa? In tempore voluptate ducimus officia id, aspernatur nihil.
-              Tempore laborum nesciunt ut veniam, nemo officia ullam repudiandae repellat veritatis unde reiciendis possimus animi autem natus
+              Recognizing the paramount importance of security in the world of cryptocurrency, CryptoGuard has implemented an enhanced security framework. This includes advanced encryption protocols, multi-factor authentication, and cold storage solutions to ensure that users' investments remain protected from any potential threats.  
             </p>
           </div>
         </div>
@@ -135,11 +133,10 @@
           </div>
           <div class="detail-box">
             <h5>
-              Instant Trading
+              Instant Trading Capabilities
             </h5>
             <p>
-              Incidunt odit rerum tenetur alias architecto asperiores omnis cumque doloribus aperiam numquam! Eligendi corrupti, molestias laborum dolores quod nisi vitae voluptate ipsa? In tempore voluptate ducimus officia id, aspernatur nihil.
-              Tempore laborum nesciunt ut veniam, nemo officia ullam repudiandae repellat veritatis unde reiciendis possimus animi autem natus
+              Experience seamless and instant trading like never before! CryptoGuard is proud to unveil its lightning-fast trading platform, enabling users to execute trades with unprecedented speed and efficiency. Say goodbye to delays and seize every opportunity in the dynamic world of cryptocurrencies.  
             </p>
           </div>
         </div>
@@ -149,11 +146,10 @@
           </div>
           <div class="detail-box">
             <h5>
-              Happy Customers
+              Happy Customers Speak
             </h5>
             <p>
-              Incidunt odit rerum tenetur alias architecto asperiores omnis cumque doloribus aperiam numquam! Eligendi corrupti, molestias laborum dolores quod nisi vitae voluptate ipsa? In tempore voluptate ducimus officia id, aspernatur nihil.
-              Tempore laborum nesciunt ut veniam, nemo officia ullam repudiandae repellat veritatis unde reiciendis possimus animi autem natus
+              User satisfaction is our top priority at CryptoGuard, and we're thrilled to share the positive feedback pouring in from our growing community. From the intuitive interface to the responsive customer support, users are raving about their experience with CryptoGuard. Join us and become a part of our ever-happy customer base!  
             </p>
           </div>
         </div>
@@ -220,7 +216,7 @@
               Info
             </h4>
             <p>
-              necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful
+              oin us at CryptoGuard and embark on a journey towards a more accessible and empowered future in the realm of cryptocurrencies.  
             </p>
           </div>
         </div>
