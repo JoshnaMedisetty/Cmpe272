@@ -13,7 +13,7 @@
   <meta name="author" content="" />
   <link rel="shortcut icon" href="images/favicon.png" type="">
 
-  <title> Finexo </title>
+  <title> CryptoGuard </title>
 
   <!-- bootstrap core css -->
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
@@ -50,7 +50,7 @@
         <nav class="navbar navbar-expand-lg custom_nav-container ">
           <a class="navbar-brand" href="index.php">
             <span>
-              Finexo
+              CryptoGuard
             </span>
           </a>
 
@@ -70,10 +70,10 @@
                 <a class="nav-link" href="service.php">Services</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="why.php">Why Us</a>
+                <a class="nav-link" href="why.php">News</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="team.php">Team</a>
+                <a class="nav-link" href="team.php">Contact</a>
               </li>
 <!--               <li class="nav-item">
                 <a class="nav-link" href="#"> <i class="fa fa-user" aria-hidden="true"></i> Login</a>
@@ -103,7 +103,7 @@
                       Currency
                     </h1>
                     <p>
-                      Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
+                      CryptoGuard is a comprehensive cryptocurrency management platform designed to empower users with a seamless and secure experience in the world of digital currencies. Our user-friendly interface coupled with cutting-edge features makes CryptoGuard the go-to app for both beginners and experienced crypto enthusiasts.  
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
@@ -130,7 +130,7 @@
                       Currency
                     </h1>
                     <p>
-                      Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
+                      CryptoGuard is a comprehensive cryptocurrency management platform designed to empower users with a seamless and secure experience in the world of digital currencies. Our user-friendly interface coupled with cutting-edge features makes CryptoGuard the go-to app for both beginners and experienced crypto enthusiasts.
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
@@ -157,7 +157,7 @@
                       Currency
                     </h1>
                     <p>
-                      Explicabo esse amet tempora quibusdam laudantium, laborum eaque magnam fugiat hic? Esse dicta aliquid error repudiandae earum suscipit fugiat molestias, veniam, vel architecto veritatis delectus repellat modi impedit sequi.
+                      CryptoGuard is a comprehensive cryptocurrency management platform designed to empower users with a seamless and secure experience in the world of digital currencies. Our user-friendly interface coupled with cutting-edge features makes CryptoGuard the go-to app for both beginners and experienced crypto enthusiasts.
                     </p>
                     <div class="btn-box">
                       <a href="" class="btn1">
@@ -197,7 +197,7 @@
             Our <span>Services</span>
           </h2>
           <p>
-            There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
+            Explore CryptoGuard today and experience a new level of confidence in managing your cryptocurrency investments.
           </p>
         </div>
         <div class="row">
@@ -211,9 +211,7 @@
                   Currency Wallet
                 </h5>
                 <p>
-                  fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                  The
-                  point of using
+                  With CryptoGuard, managing your cryptocurrency portfolio has never been easier. Our multi-currency wallet allows you to securely store, send, and receive a wide range of cryptocurrencies, all within one convenient platform. Enjoy real-time balance tracking and easy transaction management.
                 </p>
                 <a href="">
                   Read More
@@ -231,9 +229,7 @@
                   Security Storage
                 </h5>
                 <p>
-                  fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                  The
-                  point of using
+                  At CryptoGuard, security is our top priority. We employ state-of-the-art encryption protocols and cold storage solutions to safeguard your digital assets. Our advanced security measures ensure that your cryptocurrencies remain protected against any potential threats.
                 </p>
                 <a href="">
                   Read More
@@ -251,9 +247,7 @@
                   Expert Support
                 </h5>
                 <p>
-                  fact that a reader will be distracted by the readable content of a page when looking at its layout.
-                  The
-                  point of using
+                  Have a question or need assistance? Our team of dedicated crypto experts is available around the clock to provide you with timely and knowledgeable support. Whether you're a newcomer or a seasoned trader, our experts are here to guide you through any aspect of the crypto world.
                 </p>
                 <a href="">
                   Read More
@@ -283,7 +277,7 @@
           About <span>Us</span>
         </h2>
         <p>
-          Magni quod blanditiis non minus sed aut voluptatum illum quisquam aspernatur ullam vel beatae rerum ipsum voluptatibus
+          At CryptoGuard, we're passionate about demystifying the world of cryptocurrencies and making it accessible to everyone. Our team of experts combines years of experience in finance, technology, and blockchain to create a platform that empowers users with the tools and knowledge they need to navigate the crypto landscape confidently.
         </p>
       </div>
       <div class="row">
@@ -295,16 +289,13 @@
         <div class="col-md-6">
           <div class="detail-box">
             <h3>
-              We Are Finexo
+              We Are CryptoGuard
             </h3>
             <p>
-              There are many variations of passages of Lorem Ipsum available, but the majority have suffered alteration
-              in some form, by injected humour, or randomised words which don't look even slightly believable. If you
-              are going to use a passage of Lorem Ipsum, you need to be sure there isn't anything embarrassing hidden in
-              the middle of text. All
+              We are a dedicated team of crypto enthusiasts committed to revolutionizing the way people interact with digital currencies. Our mission is to provide a secure, user-friendly platform that bridges the gap between traditional finance and the exciting world of blockchain technology. With CryptoGuard, you're not just a user - you're a part of a community driving the future of finance.
             </p>
             <p>
-              Molestiae odio earum non qui cumque provident voluptates, repellendus exercitationem, possimus at iste corrupti officiis unde alias eius ducimus reiciendis soluta eveniet. Nobis ullam ab omnis quasi expedita.
+              Join us at CryptoGuard and embark on a journey towards a more accessible and empowered future in the realm of cryptocurrencies.
             </p>
             <a href="">
               Read More
@@ -323,7 +314,7 @@
     <div class="container">
       <div class="heading_container heading_center">
         <h2>
-          Why Choose <span>Us</span>
+          News
         </h2>
       </div>
       <div class="why_container">
@@ -333,11 +324,10 @@
           </div>
           <div class="detail-box">
             <h5>
-              Expert Management
+              Management Excellence
             </h5>
             <p>
-              Incidunt odit rerum tenetur alias architecto asperiores omnis cumque doloribus aperiam numquam! Eligendi corrupti, molestias laborum dolores quod nisi vitae voluptate ipsa? In tempore voluptate ducimus officia id, aspernatur nihil.
-              Tempore laborum nesciunt ut veniam, nemo officia ullam repudiandae repellat veritatis unde reiciendis possimus animi autem natus
+              In a strategic move to bolster its leadership team, CryptoGuard is proud to announce the appointment of John Smith as the new Chief Financial Officer. With over two decades of experience in financial management, Smith brings a wealth of expertise to guide CryptoGuard through its next phase of growth.
             </p>
           </div>
         </div>
@@ -347,11 +337,10 @@
           </div>
           <div class="detail-box">
             <h5>
-              Secure Investment
+              Secure Investment Strategies
             </h5>
             <p>
-              Incidunt odit rerum tenetur alias architecto asperiores omnis cumque doloribus aperiam numquam! Eligendi corrupti, molestias laborum dolores quod nisi vitae voluptate ipsa? In tempore voluptate ducimus officia id, aspernatur nihil.
-              Tempore laborum nesciunt ut veniam, nemo officia ullam repudiandae repellat veritatis unde reiciendis possimus animi autem natus
+              Recognizing the paramount importance of security in the world of cryptocurrency, CryptoGuard has implemented an enhanced security framework. This includes advanced encryption protocols, multi-factor authentication, and cold storage solutions to ensure that users' investments remain protected from any potential threats.
             </p>
           </div>
         </div>
@@ -361,11 +350,10 @@
           </div>
           <div class="detail-box">
             <h5>
-              Instant Trading
+              Instant Trading Capabilities
             </h5>
             <p>
-              Incidunt odit rerum tenetur alias architecto asperiores omnis cumque doloribus aperiam numquam! Eligendi corrupti, molestias laborum dolores quod nisi vitae voluptate ipsa? In tempore voluptate ducimus officia id, aspernatur nihil.
-              Tempore laborum nesciunt ut veniam, nemo officia ullam repudiandae repellat veritatis unde reiciendis possimus animi autem natus
+              Experience seamless and instant trading like never before! CryptoGuard is proud to unveil its lightning-fast trading platform, enabling users to execute trades with unprecedented speed and efficiency. Say goodbye to delays and seize every opportunity in the dynamic world of cryptocurrencies.
             </p>
           </div>
         </div>
@@ -375,11 +363,10 @@
           </div>
           <div class="detail-box">
             <h5>
-              Happy Customers
+              Happy Customers Speak
             </h5>
             <p>
-              Incidunt odit rerum tenetur alias architecto asperiores omnis cumque doloribus aperiam numquam! Eligendi corrupti, molestias laborum dolores quod nisi vitae voluptate ipsa? In tempore voluptate ducimus officia id, aspernatur nihil.
-              Tempore laborum nesciunt ut veniam, nemo officia ullam repudiandae repellat veritatis unde reiciendis possimus animi autem natus
+              User satisfaction is our top priority at CryptoGuard, and we're thrilled to share the positive feedback pouring in from our growing community. From the intuitive interface to the responsive customer support, users are raving about their experience with CryptoGuard. Join us and become a part of our ever-happy customer base!
             </p>
           </div>
         </div>
@@ -565,13 +552,13 @@
                       LusDen
                     </h6>
                     <p>
-                      magna aliqua. Ut
+                      California, USA
                     </p>
                   </div>
                   <i class="fa fa-quote-left" aria-hidden="true"></i>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis </p>
+                  "Intuitive interface, top-notch security, and lightning-fast trades. CryptoGuard is my go-to for managing crypto!" </p>
               </div>
             </div>
           </div>
@@ -587,13 +574,13 @@
                       Zen Court
                     </h6>
                     <p>
-                      magna aliqua. Ut
+                      Arizona, USA
                     </p>
                   </div>
                   <i class="fa fa-quote-left" aria-hidden="true"></i>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis </p>
+                  "Simple, secure, and speedy! CryptoGuard has streamlined my crypto experience. Highly recommend!" </p>
               </div>
             </div>
           </div>
@@ -609,13 +596,13 @@
                       LusDen
                     </h6>
                     <p>
-                      magna aliqua. Ut
+                      California, USA
                     </p>
                   </div>
                   <i class="fa fa-quote-left" aria-hidden="true"></i>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis </p>
+                  "Intuitive interface, top-notch security, and lightning-fast trades. CryptoGuard is my go-to for managing crypto!" </p>
               </div>
             </div>
           </div>
@@ -631,13 +618,13 @@
                       Zen Court
                     </h6>
                     <p>
-                      magna aliqua. Ut
+                      Arizona, USA
                     </p>
                   </div>
                   <i class="fa fa-quote-left" aria-hidden="true"></i>
                 </div>
                 <p>
-                  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis </p>
+                  "Simple, secure, and speedy! CryptoGuard has streamlined my crypto experience. Highly recommend!" </p>
               </div>
             </div>
           </div>
@@ -675,7 +662,7 @@
               <a href="">
                 <i class="fa fa-envelope" aria-hidden="true"></i>
                 <span>
-                  demo@gmail.com
+                  cryptoguard2022@gmail.com
                 </span>
               </a>
             </div>
@@ -701,7 +688,7 @@
               Info
             </h4>
             <p>
-              necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful
+              Explore CryptoGuard today and experience a new level of confidence in managing your cryptocurrency investments.
             </p>
           </div>
         </div>
