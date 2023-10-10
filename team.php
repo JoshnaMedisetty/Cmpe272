@@ -13,7 +13,7 @@
   <meta name="author" content="" />
   <link rel="shortcut icon" href="images/favicon.png" type="">
 
-  <title> Finexo </title>
+  <title> CryptoGuard </title>
 
   <!-- bootstrap core css -->
   <link rel="stylesheet" type="text/css" href="css/bootstrap.css" />
@@ -48,7 +48,7 @@
     <header class="header_section">
       <div class="container-fluid">
         <nav class="navbar navbar-expand-lg custom_nav-container ">
-          <a class="navbar-brand" href="index.html">
+          <a class="navbar-brand" href="index.php">
             <span>
               Finexo
             </span>
@@ -61,19 +61,19 @@
           <div class="collapse navbar-collapse" id="navbarSupportedContent">
             <ul class="navbar-nav  ">
               <li class="nav-item ">
-                <a class="nav-link" href="index.html">Home </a>
+                <a class="nav-link" href="index.php">Home </a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="about.html"> About</a>
+                <a class="nav-link" href="about.php"> About</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="service.html">Services</a>
+                <a class="nav-link" href="service.php">Services</a>
               </li>
               <li class="nav-item">
-                <a class="nav-link" href="why.html">Why Us</a>
+                <a class="nav-link" href="why.php">News</a>
               </li>
               <li class="nav-item active">
-                <a class="nav-link" href="team.html">Team <span class="sr-only">(current)</span> </a>
+                <a class="nav-link" href="team.php">Contact <span class="sr-only">(current)</span> </a>
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#"> <i class="fa fa-user" aria-hidden="true"></i> Login</a>
@@ -262,7 +262,7 @@
               <a href="">
                 <i class="fa fa-envelope" aria-hidden="true"></i>
                 <span>
-                  demo@gmail.com
+                  cryptoguard2022@gmail.com
                 </span>
               </a>
             </div>
@@ -288,8 +288,7 @@
               Info
             </h4>
             <p>
-              necessary, making this the first true generator on the Internet. It uses a dictionary of over 200 Latin words, combined with a handful
-            </p>
+              Join us at CryptoGuard and embark on a journey towards a more accessible and empowered future in the realm of cryptocurrencies.   </p>
           </div>
         </div>
         <div class="col-md-6 col-lg-2 mx-auto info_col">
@@ -298,19 +297,19 @@
               Links
             </h4>
             <div class="info_links">
-              <a class="active" href="index.html">
+              <a class="active" href="index.php">
                 Home
               </a>
-              <a class="" href="about.html">
+              <a class="" href="about.php">
                 About
               </a>
-              <a class="" href="service.html">
+              <a class="" href="service.php">
                 Services
               </a>
-              <a class="" href="why.html">
-                Why Us
+              <a class="" href="why.php">
+                News
               </a>
-              <a class="" href="team.html">
+              <a class="" href="team.php">
                 Team
               </a>
             </div>
