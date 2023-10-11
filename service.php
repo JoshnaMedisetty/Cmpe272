@@ -74,10 +74,10 @@
               </li>
               <li class="nav-item">
                 <a class="nav-link" href="team.php">Contact</a>
-              </li>
+<!--               </li>
               <li class="nav-item">
                 <a class="nav-link" href="#"> <i class="fa fa-user" aria-hidden="true"></i> Login</a>
-              </li>
+              </li> -->
               <form class="form-inline">
                 <button class="btn  my-2 my-sm-0 nav_search-btn" type="submit">
                   <i class="fa fa-search" aria-hidden="true"></i>
