@@ -89,6 +89,30 @@
       </div>
     </header>
     <!-- end header section -->
+
+    <!-- Add the login form -->
+    
+    <section class="login_section layout_padding">
+    <div class="container">
+      <div class="row">
+        <div class="col-md-6 mx-auto">
+          <div class="login_box">
+            <h2>Login</h2>
+            <form action="login.php" method="post">
+              <div class="form-group">
+                <input type="text" class="form-control" name="Username" placeholder="Username" required>
+              </div>
+              <div class="form-group">
+                <input type="password" class="form-control" name="Password" placeholder="Password" required>
+              </div>
+              <button type="submit" class="btn btn-primary">Login</button>
+            </form>
+          </div>
+        </div>
+      </div>
+    </div>
+  </section>
+
     <!-- slider section -->
     <section class="slider_section ">
       <div id="customCarousel1" class="carousel slide" data-ride="carousel">
