@@ -4,7 +4,7 @@
 
     <head>
         
-        <title>Cult Fitness</title>
+        <title>CryptoGuard</title>
     </head>
     <body>
         Hello, <?php echo " Login Successfull"?>
@@ -12,7 +12,7 @@
         Current website Users are:
         <br/>
         <?php
-            $userfile = fopen("Files/credentials.txt", "r");
+            $userfile = fopen("credentials.txt", "r");
             while(($line=fgets($userfile))!==false){
                     $user = explode(",", $line);
                     echo $user[0];
