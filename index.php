@@ -130,7 +130,7 @@
             </div>
   
             <div class="modal-body">
-                <form class="membership-form webform" action="loginvalidation.php" role="form" method="POST">
+                <form class="membership-form webform" action="login.php" role="form" method="POST">
                     <input type="text" class="form-control" name="Username" placeholder="Username">
                     <input type="text" class="form-control" name="Password" placeholder="Password">
                     <button type="submit" class="form-control" id="submit-button" name="submit">Login</button>
