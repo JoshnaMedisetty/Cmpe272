@@ -3,7 +3,7 @@
      ob_start();
     session_start();
      if (!empty($_POST["Username"]) && !empty($_POST["Password"])){
-          $userfile = fopen("Files/credentials.txt", "r");
+          $userfile = fopen("credentials.txt", "r");
             while(($line=fgets($userfile))!==false){
                     $line = rtrim($line,"\r\n");
                     $user = explode(",", $line);
