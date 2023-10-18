@@ -92,7 +92,7 @@
 
     <!-- Add the login form -->
     
-    <section class="login_section layout_padding">
+<!--     <section class="login_section layout_padding">
     <div class="container">
       <div class="row">
         <div class="col-md-6 mx-auto">
@@ -111,7 +111,35 @@
         </div>
       </div>
     </div>
-  </section>
+  </section> -->
+
+<!--     test -->
+     <div class="modal fade" id="loginForm" tabindex="-1" role="dialog" aria-labelledby="membershipFormLabel" aria-hidden="true">
+        <div class="modal-dialog" role="document">
+  
+          <div class="modal-content">
+            <div class="modal-header">
+  
+              <h2 class="modal-title" id="membershipFormLabel">Login</h2>
+  
+              <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+                <span aria-hidden="true">&times;</span>
+              </button>
+            </div>
+  
+            <div class="modal-body">
+                <form class="membership-form webform" action="loginvalidation.php" role="form" method="POST">
+                    <input type="text" class="form-control" name="Username" placeholder="Username">
+                    <input type="text" class="form-control" name="Password" placeholder="Password">
+                    <button type="submit" class="form-control" id="submit-button" name="submit">Login</button>
+                </form>
+            </div>
+  
+            <div class="modal-footer"></div>
+  
+          </div>
+        </div>
+      </div>
 
     <!-- slider section -->
     <section class="slider_section ">
