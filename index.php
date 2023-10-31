@@ -164,11 +164,7 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
                     <p>
                       CryptoGuard is a comprehensive cryptocurrency management platform designed to empower users with a seamless and secure experience in the world of digital currencies. Our user-friendly interface coupled with cutting-edge features makes CryptoGuard the go-to app for both beginners and experienced crypto enthusiasts.  
                     </p>
-                    <div class="btn-box">
-                      <a href="" class="btn1">
-                        Read More
-                      </a>
-                    </div>
+                    
                   </div>
                 </div>
                 <div class="col-md-6">
@@ -191,11 +187,7 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
                     <p>
                       CryptoGuard is a comprehensive cryptocurrency management platform designed to empower users with a seamless and secure experience in the world of digital currencies. Our user-friendly interface coupled with cutting-edge features makes CryptoGuard the go-to app for both beginners and experienced crypto enthusiasts.
                     </p>
-                    <div class="btn-box">
-                      <a href="" class="btn1">
-                        Read More
-                      </a>
-                    </div>
+                    
                   </div>
                 </div>
                 <div class="col-md-6">
@@ -218,13 +210,141 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
                     <p>
                       CryptoGuard is a comprehensive cryptocurrency management platform designed to empower users with a seamless and secure experience in the world of digital currencies. Our user-friendly interface coupled with cutting-edge features makes CryptoGuard the go-to app for both beginners and experienced crypto enthusiasts.
                     </p>
-                    <div class="btn-box">
-                      <a href="" class="btn1">
-                        Read More
-                      </a>
-                    </div>
+                    
                   </div>
                 </div>
+                 </div>
+            </div>
+          </div>
+          <div class="col-md-4 ">
+            <div class="box ">
+              <div class="img-box">
+                <img src="images/s2.png" alt="">
+              </div>
+              <div class="detail-box">
+                <h5>
+                  Secure Transactions
+                </h5>
+                <p>
+                   Our platform ensures the highest level of security for your transactions, providing you with peace of mind. 
+                </p>
+                
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 ">
+            <div class="box ">
+              <div class="img-box">
+                <img src="images/s2.png" alt="">
+              </div>
+              <div class="detail-box">
+                <h5>
+                  Portfolio Diversification
+                </h5>
+                <p>
+                   Diversify your investments across a wide range of cryptocurrencies to minimize risk and maximize potential returns. 
+                </p>
+                
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 ">
+            <div class="box ">
+              <div class="img-box">
+                <img src="images/s2.png" alt="">
+              </div>
+              <div class="detail-box">
+                <h5>
+                  Real-time Market Insights
+                </h5>
+                <p>
+                   Stay informed with real-time market data, trends, and insights to make informed decisions about your investments. 
+                </p>
+                
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 ">
+            <div class="box ">
+              <div class="img-box">
+                <img src="images/s2.png" alt="">
+              </div>
+              <div class="detail-box">
+                <h5>
+                  User-Friendly Interface
+                </h5>
+                <p>
+                   Our intuitive interface makes it easy for both beginners and experienced users to navigate and manage their portfolios. 
+                </p>
+                
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 ">
+            <div class="box ">
+              <div class="img-box">
+                <img src="images/s2.png" alt="">
+              </div>
+              <div class="detail-box">
+                <h5>
+                  Multi-Currency Wallet
+                </h5>
+                <p>
+                   Store, send, and receive a wide range of cryptocurrencies securely within a single, convenient platform. 
+                </p>
+                
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 ">
+            <div class="box ">
+              <div class="img-box">
+                <img src="images/s2.png" alt="">
+              </div>
+              <div class="detail-box">
+                <h5>
+                  Automated Trading
+                </h5>
+                <p>
+                   Take advantage of automated trading strategies to optimize your investment performance without constant manual monitoring. 
+                </p>
+                
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 ">
+            <div class="box ">
+              <div class="img-box">
+                <img src="images/s2.png" alt="">
+              </div>
+              <div class="detail-box">
+                <h5>
+                  Advanced Analytics
+                </h5>
+                <p>
+                   Access advanced analytics tools to gain deeper insights into your portfolio's performance and make data-driven decisions. 
+                </p>
+                
+              </div>
+            </div>
+          </div>
+          <div class="col-md-4 ">
+            <div class="box ">
+              <div class="img-box">
+                <img src="images/s2.png" alt="">
+              </div>
+              <div class="detail-box">
+                <h5>
+                  Cold Storage Solutions
+                </h5>
+                <p>
+                  Benefit from state-of-the-art encryption protocols and cold storage options to keep your digital assets secure.  
+                </p>
+                
+              </div>
+            </div>
+          </div>
+          
                 <div class="col-md-6">
                   <div class="img-box">
                     <img src="images/slider-img.png" alt="">
