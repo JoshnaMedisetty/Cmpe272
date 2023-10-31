@@ -92,6 +92,72 @@
   </div>
 
 
+$services = array(
+    array(
+        "name" => "Currency Wallet",
+        "description" => "With CryptoGuard, managing your cryptocurrency portfolio has never been easier. Our multi-currency wallet allows you to securely store, send, and receive a wide range of cryptocurrencies, all within one convenient platform. Enjoy real-time balance tracking and easy transaction management.",
+        "image" => "images/s1.png",
+        "link" => "link_to_more_info"
+    ),
+    array(
+        "name" => "Security Storage",
+        "description" => "At CryptoGuard, security is our top priority. We employ state-of-the-art encryption protocols and cold storage solutions to safeguard your digital assets. Our advanced security measures ensure that your cryptocurrencies remain protected against any potential threats.",
+        "image" => "images/s2.png",
+        "link" => "link_to_more_info"
+    ),
+    array(
+        "name" => "Expert Support",
+        "description" => "Have a question or need assistance? Our team of dedicated crypto experts is available around the clock to provide you with timely and knowledgeable support. Whether you're a newcomer or a seasoned trader, our experts are here to guide you through any aspect of the crypto world.",
+        "image" => "images/s3.png",
+        "link" => "link_to_more_info"
+    ),
+    array(
+        "name" => "Secure Transactions",
+        "description" => "Our platform ensures the highest level of security for your transactions, providing you with peace of mind.",
+        "image" => "images/s3.png",
+        "link" => "link_to_more_info"
+    ),
+    array(
+        "name" => "Portfolio Diversification",
+        "description" => "Diversify your investments across a wide range of cryptocurrencies to minimize risk and maximize potential returns.",
+        "image" => "images/s3.png",
+        "link" => "link_to_more_info"
+    ),
+    array(
+        "name" => "Real-time Market Insights",
+        "description" => "Stay informed with real-time market data, trends, and insights to make informed decisions about your investments.",
+        "image" => "images/s3.png",
+        "link" => "link_to_more_info"
+    ),
+    array(
+        "name" => "Multi-Currency Wallet",
+        "description" => "Store, send, and receive a wide range of cryptocurrencies securely within a single, convenient platform.",
+        "image" => "images/s3.png",
+        "link" => "link_to_more_info"
+    ),
+    array(
+        "name" => "Cold Storage Solutions",
+        "description" => "Benefit from state-of-the-art encryption protocols and cold storage options to keep your digital assets secure.",
+        "image" => "images/s3.png",
+        "link" => "link_to_more_info"
+    ),
+    array(
+        "name" => "Secure Transactions",
+        "description" => "",
+        "image" => "images/s3.png",
+        "link" => "link_to_more_info"
+    ),
+    array(
+        "name" => "Regulatory Compliance",
+        "description" => "We adhere to strict regulatory standards, providing you with a compliant platform to manage your cryptocurrency investments.",
+        "image" => "images/s3.png",
+        "link" => "link_to_more_info"
+    )
+    
+);
+
+
+
   <!-- service section -->
 
   <section class="service_section layout_padding">
