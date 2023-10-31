@@ -246,7 +246,7 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
   </div>
 
 
-<!--   service section 
+<!--   service section -->
 
   <section class="service_section layout_padding">
     <div class="service_container">
@@ -324,9 +324,9 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
     </div>
   </section>
 
-   end service section
+ <!-- end service section
  -->
-  include('service.php');
+  
 
   <!-- about section -->
 
