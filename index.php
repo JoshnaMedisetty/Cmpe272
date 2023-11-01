@@ -270,6 +270,7 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
               <div class="img-box">
                 <img src="images/s1.png" alt="">
               </div>
+              <a href="s1.php">
               <div class="detail-box">
                 <h5>
                   Currency Wallet
@@ -279,6 +280,7 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
                 </p>
                 
               </div>
+             </a>
             </div>
           </div>
           <div class="col-md-4 ">
