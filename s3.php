@@ -29,10 +29,10 @@
     </head>
     
     <body> 
-        <h1 class="mb-1">CURRENCY WALLET</h1>
+        <h1 class="mb-1">Expert Support</h1>
     <div class="class-thumb">
                                     
-                                    <a href="s1.php">
+                                    <a href="s3.php">
                                     <div class="class-info">
                                         
 
@@ -40,7 +40,7 @@
 
                                         <span class="service-price">$66</span>
 
-                                        <p>With CryptoGuard, managing your cryptocurrency portfolio has never been easier. Our multi-currency wallet allows you to securely store, send, and receive a wide range of cryptocurrencies, all within one convenient platform. Enjoy real-time balance tracking and easy transaction management.</p>
+                                        <p>Have a question or need assistance? Our team of dedicated crypto experts is available around the clock to provide you with timely and knowledgeable support. Whether you're a newcomer or a seasoned trader, our experts are here to guide you through any aspect of the crypto world.</p>
                                     </div>
                                     </a>
                                 </div>
