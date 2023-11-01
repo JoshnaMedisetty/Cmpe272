@@ -26,7 +26,7 @@
                                 echo "
                                 <table>
                                     <tr>
-                                        <td><a href='$service.php' style='color:red'>$service_url-$count times</a></td>
+                                        <td><a href='$service_url.php' style='color:red'>$service_url-$count times</a></td>
                                     </tr>
                                 </table>";
                             }
@@ -41,7 +41,7 @@
                             echo "
                             <table>
                                 <tr>
-                                    <td><a href='$service.php' style='color:red'>$service_url-$count times</a></td>
+                                    <td><a href='$service_url.php' style='color:red'>$service_url-$count times</a></td>
                                 </tr>
                             </table>";
                         }
