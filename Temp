@@ -7,7 +7,7 @@ INSERT INTO users VALUES('Raj', 'M', 'Raj.M@gmail.com', '2222222222', '222222222
 INSERT INTO users VALUES('Raghu', 'P', 'Raghu.P@gmail.com', '3333333333', '3333333334');
 INSERT INTO users VALUES('Elle', 'D', 'Elle.D@gmail.com', '4444444444', '4444444445');
 
-CREATE TABLE products(id INTEGER, name varchar(255), desc TEXT, hits INTEGER);
+CREATE TABLE products(id INTEGER, name varchar(255), desc TEXT, hits INTEGER); 
 
 
 
