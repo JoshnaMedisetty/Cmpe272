@@ -288,6 +288,7 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
               <div class="img-box">
                 <img src="images/s2.png" alt="">
               </div>
+              <a href="s2.php">
               <div class="detail-box">
                 <h5>
                   Security Storage
@@ -297,6 +298,7 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
                 </p>
                 
               </div>
+              </a>
             </div>
           </div>
           <div class="col-md-4 ">
@@ -304,6 +306,7 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
               <div class="img-box">
                 <img src="images/s3.png" alt="">
               </div>
+              <a href="s3.php">
               <div class="detail-box">
                 <h5>
                   Expert Support
@@ -313,6 +316,7 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
                 </p>
                 
               </div>
+              </a>
             </div>
           </div>
           <div class="col-md-4 ">
@@ -320,6 +324,7 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
               <div class="img-box">
                 <img src="images/s2.png" alt="">
               </div>
+              <a href="s4.php">
               <div class="detail-box">
                 <h5>
                   Secure Transactions
@@ -329,6 +334,7 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
                 </p>
                 
               </div>
+              </a>
             </div>
           </div>
           <div class="col-md-4 ">
@@ -336,6 +342,7 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
               <div class="img-box">
                 <img src="images/s2.png" alt="">
               </div>
+              <a href="s5.php">
               <div class="detail-box">
                 <h5>
                   Portfolio Diversification
@@ -345,6 +352,7 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
                 </p>
                 
               </div>
+              </a>
             </div>
           </div>
           <div class="col-md-4 ">
@@ -352,6 +360,7 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
               <div class="img-box">
                 <img src="images/s2.png" alt="">
               </div>
+              <a href="s6.php">
               <div class="detail-box">
                 <h5>
                   Real-time Market Insights
@@ -361,6 +370,7 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
                 </p>
                 
               </div>
+              </a>
             </div>
           </div>
           <div class="col-md-4 ">
@@ -368,6 +378,7 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
               <div class="img-box">
                 <img src="images/s2.png" alt="">
               </div>
+              <a href="s7.php">
               <div class="detail-box">
                 <h5>
                   User-Friendly Interface
@@ -376,7 +387,7 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
                    Our intuitive interface makes it easy for both beginners and experienced users to navigate and manage their portfolios. 
                 </p>
                 
-              </div>
+              </div></a>
             </div>
           </div>
           <div class="col-md-4 ">
@@ -384,6 +395,7 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
               <div class="img-box">
                 <img src="images/s2.png" alt="">
               </div>
+              <a href="s8.php">
               <div class="detail-box">
                 <h5>
                   Multi-Currency Wallet
@@ -393,6 +405,7 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
                 </p>
                 
               </div>
+              </a>
             </div>
           </div>
           <div class="col-md-4 ">
@@ -400,6 +413,7 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
               <div class="img-box">
                 <img src="images/s2.png" alt="">
               </div>
+              <a href="s9.php">
               <div class="detail-box">
                 <h5>
                   Automated Trading
@@ -409,6 +423,7 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
                 </p>
                 
               </div>
+              </a>
             </div>
           </div>
           <div class="col-md-4 ">
@@ -416,6 +431,7 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
               <div class="img-box">
                 <img src="images/s2.png" alt="">
               </div>
+              <a href="s10.php">
               <div class="detail-box">
                 <h5>
                   Advanced Analytics
@@ -425,22 +441,7 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
                 </p>
                 
               </div>
-            </div>
-          </div>
-          <div class="col-md-4 ">
-            <div class="box ">
-              <div class="img-box">
-                <img src="images/s2.png" alt="">
-              </div>
-              <div class="detail-box">
-                <h5>
-                  Cold Storage Solutions
-                </h5>
-                <p>
-                  Benefit from state-of-the-art encryption protocols and cold storage options to keep your digital assets secure.  
-                </p>
-                
-              </div>
+              </a>
             </div>
           </div>
           
