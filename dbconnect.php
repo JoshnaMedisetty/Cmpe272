@@ -1,15 +1,18 @@
 <?php
 
-$host = "your_database_host";
-$database = "your_database_name";
-$username = "your_database_username";
-$password = "your_database_password";
+// Define your connection string
+$connectionString = "mongodb+srv://joshnamedisetty:Mongodb-123@cluster0.8y8zddn.mongodb.net/?retryWrites=true&w=majority";
 
+// Try to establish a connection
 try {
-    $conn = new MongoClient("mongodb://${username}:${password}@${host}/${database}");
-    $db = $conn->$database;
-} catch (Exception $e) {
-    die("Error: " . $e->getMessage());
+    $client = new MongoDB\Client($connectionString);
+
+    // Select the database
+    $db = $client->selectDatabase('<database-name>'); // Replace <database-name> with your actual database name
+} catch (MongoDB\Driver\Exception\Exception $e) {
+    // Handle connection error
+    echo "Error connecting to MongoDB: " . $e->getMessage();
 }
 
 ?>
+
