@@ -1,31 +1,8 @@
-<?php require "dbconnect.php"?>
+
 <section class="main-section alabaster" id="tops">
 	<div class="container fullsize">
     	<div class="row">
-			<div class="col-lg-5 col-sm-4 wow fadeInLeft">
-            	<h2>Global top viewed</h2>
-                <table>
-                    <tr>
-                        <th>Name</th>
-                        <th>Description</th>
-                        <th>Hits</th>
-                    </tr>
-                <?php
-                $sql = "SELECT * FROM products ORDER BY hits DESC";
-                $results = $mysqli->query($sql);
-                for($i=0; $i<5; $i++){
-                    $row = $results->fetch_assoc();
-                    echo "<tr>";
-                    echo "<td>".$row["name"]."</td>";
-                    echo "<td>".$row["description"]."</td>";
-                    echo "<td>".$row["hits"]."</td>";
-                    echo "</tr>";
-                }
-                
-                ?>
-                </table>
-                
-            </div>
+			
         	<div class="col-lg-7 col-sm-8 wow fadeInRight">
             	<h2>Your top viewed</h2>
                 <?php
