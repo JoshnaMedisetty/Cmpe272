@@ -115,7 +115,7 @@
               <div class="img-box">
                 <img src="images/s1.png" alt="">
               </div>
-              <a href="s1.php">
+              <a href="./s1.php">
               <div class="detail-box">
                 <h5>
                   Currency Wallet
