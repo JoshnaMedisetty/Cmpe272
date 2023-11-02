@@ -1,18 +1,4 @@
-<?php require "dbconnect.php"?>
-<?php
-   
-$collection = $client->selectCollection('cryptodb', 'cryptodb');
 
-// Query to find a document with id = 1
-$result = $collection->findOne(['id' => 1]);
-
-// If document is found, update hits count
-if ($result) {
-    $hits = $result['hits'] + 1;
-    $collection->updateOne(['id' => 1], ['$set' => ['hits' => $hits]]);
-}
-
-?>
 <?php
     if(isset($_COOKIE["lastids"])){
         if(explode(",",$_COOKIE["lastids"])[0]!=$prod["id"]){
