@@ -1,11 +1,17 @@
 <?php require "dbconnect.php"?>
 <?php
-    // parse_str($_SERVER['QUERY_STRING']);
-    $result = $mysqli->query("SELECT * FROM products where id = 1;");
-    $prod = $result -> fetch_assoc();
-    $hits = $prod["hits"] + 1;
-    $mysqli->query("UPDATE products SET hits = ".$hits." WHERE id = 1;");    
-    $mysqli->close();
+   
+$collection = $client->selectCollection('cryptodb', 'cryptodb');
+
+// Query to find a document with id = 1
+$result = $collection->findOne(['id' => 1]);
+
+// If document is found, update hits count
+if ($result) {
+    $hits = $result['hits'] + 1;
+    $collection->updateOne(['id' => 1], ['$set' => ['hits' => $hits]]);
+}
+
 ?>
 <?php
     if(isset($_COOKIE["lastids"])){
