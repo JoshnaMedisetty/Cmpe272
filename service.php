@@ -95,8 +95,6 @@
 
 
 
-  <!-- service section -->
-
   <section class="service_section layout_padding">
     <div class="service_container">
       <div class="container ">
@@ -105,8 +103,11 @@
             Our <span>Services</span>
           </h2>
           <p>
-            Explore CryptoGuard today and experience a new level of confidence in managing your cryptocurrency investments.  
+            Explore CryptoGuard today and experience a new level of confidence in managing your cryptocurrency investments.
           </p>
+          <a href="./tops.php">
+                <h3 > Click here for our Most Visited Classes</h3>
+          </a>
         </div>
         <div class="row">
           <div class="col-md-4 ">
@@ -114,15 +115,17 @@
               <div class="img-box">
                 <img src="images/s1.png" alt="">
               </div>
+              <a href="s1.php">
               <div class="detail-box">
                 <h5>
                   Currency Wallet
                 </h5>
                 <p>
-                  With CryptoGuard, managing your cryptocurrency portfolio has never been easier. Our multi-currency wallet allows you to securely store, send, and receive a wide range of cryptocurrencies, all within one convenient platform. Enjoy real-time balance tracking and easy transaction management
+                  With CryptoGuard, managing your cryptocurrency portfolio has never been easier. Our multi-currency wallet allows you to securely store, send, and receive a wide range of cryptocurrencies, all within one convenient platform. Enjoy real-time balance tracking and easy transaction management.
                 </p>
                 
               </div>
+             </a>
             </div>
           </div>
           <div class="col-md-4 ">
@@ -130,15 +133,17 @@
               <div class="img-box">
                 <img src="images/s2.png" alt="">
               </div>
+              <a href="s2.php">
               <div class="detail-box">
                 <h5>
                   Security Storage
                 </h5>
                 <p>
-                  At CryptoGuard, security is our top priority. We employ state-of-the-art encryption protocols and cold storage solutions to safeguard your digital assets. Our advanced security measures ensure that your cryptocurrencies remain protected against any potential threats.  
+                  At CryptoGuard, security is our top priority. We employ state-of-the-art encryption protocols and cold storage solutions to safeguard your digital assets. Our advanced security measures ensure that your cryptocurrencies remain protected against any potential threats.
                 </p>
                 
               </div>
+              </a>
             </div>
           </div>
           <div class="col-md-4 ">
@@ -146,6 +151,7 @@
               <div class="img-box">
                 <img src="images/s3.png" alt="">
               </div>
+              <a href="s3.php">
               <div class="detail-box">
                 <h5>
                   Expert Support
@@ -155,6 +161,7 @@
                 </p>
                 
               </div>
+              </a>
             </div>
           </div>
           <div class="col-md-4 ">
@@ -162,6 +169,7 @@
               <div class="img-box">
                 <img src="images/s2.png" alt="">
               </div>
+              <a href="s4.php">
               <div class="detail-box">
                 <h5>
                   Secure Transactions
@@ -171,6 +179,7 @@
                 </p>
                 
               </div>
+              </a>
             </div>
           </div>
           <div class="col-md-4 ">
@@ -178,6 +187,7 @@
               <div class="img-box">
                 <img src="images/s2.png" alt="">
               </div>
+              <a href="s5.php">
               <div class="detail-box">
                 <h5>
                   Portfolio Diversification
@@ -187,6 +197,7 @@
                 </p>
                 
               </div>
+              </a>
             </div>
           </div>
           <div class="col-md-4 ">
@@ -194,6 +205,7 @@
               <div class="img-box">
                 <img src="images/s2.png" alt="">
               </div>
+              <a href="s6.php">
               <div class="detail-box">
                 <h5>
                   Real-time Market Insights
@@ -203,6 +215,7 @@
                 </p>
                 
               </div>
+              </a>
             </div>
           </div>
           <div class="col-md-4 ">
@@ -210,6 +223,7 @@
               <div class="img-box">
                 <img src="images/s2.png" alt="">
               </div>
+              <a href="s7.php">
               <div class="detail-box">
                 <h5>
                   User-Friendly Interface
@@ -218,7 +232,7 @@
                    Our intuitive interface makes it easy for both beginners and experienced users to navigate and manage their portfolios. 
                 </p>
                 
-              </div>
+              </div></a>
             </div>
           </div>
           <div class="col-md-4 ">
@@ -226,6 +240,7 @@
               <div class="img-box">
                 <img src="images/s2.png" alt="">
               </div>
+              <a href="s8.php">
               <div class="detail-box">
                 <h5>
                   Multi-Currency Wallet
@@ -235,6 +250,7 @@
                 </p>
                 
               </div>
+              </a>
             </div>
           </div>
           <div class="col-md-4 ">
@@ -242,6 +258,7 @@
               <div class="img-box">
                 <img src="images/s2.png" alt="">
               </div>
+              <a href="s9.php">
               <div class="detail-box">
                 <h5>
                   Automated Trading
@@ -251,6 +268,7 @@
                 </p>
                 
               </div>
+              </a>
             </div>
           </div>
           <div class="col-md-4 ">
@@ -258,6 +276,7 @@
               <div class="img-box">
                 <img src="images/s2.png" alt="">
               </div>
+              <a href="s10.php">
               <div class="detail-box">
                 <h5>
                   Advanced Analytics
@@ -267,22 +286,7 @@
                 </p>
                 
               </div>
-            </div>
-          </div>
-          <div class="col-md-4 ">
-            <div class="box ">
-              <div class="img-box">
-                <img src="images/s2.png" alt="">
-              </div>
-              <div class="detail-box">
-                <h5>
-                  Cold Storage Solutions
-                </h5>
-                <p>
-                  Benefit from state-of-the-art encryption protocols and cold storage options to keep your digital assets secure.  
-                </p>
-                
-              </div>
+              </a>
             </div>
           </div>
           
@@ -292,8 +296,9 @@
     </div>
   </section>
 
-  <!-- end service section -->
-
+ <!-- end service section
+ -->
+  
   <!-- info section -->
 
   <section class="info_section layout_padding2">
