@@ -1,6 +1,10 @@
 <?php
+$username = "sql5660059";
+$password = "xugbuebrsw";
+$database = "sql5660059";
+$mysqli = new mysqli("sql5.freesqldatabase.com", $username, $password, $database, 3306);
 
-$mongoConnection = new MongoDB\Driver\Manager("mongodb+srv://joshnamedisetty:Mongodb-123@cluster0.8y8zddn.mongodb.net/?retryWrites=true&w=majority");
-
+if ($mysqli->connect_error) {
+    die("Connection failed: " . $mysqli->connect_error);
+}
 ?>
-
