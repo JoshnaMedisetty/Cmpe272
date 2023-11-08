@@ -17,7 +17,7 @@
                     $row = $results->fetch_assoc();
                     echo "<tr>";
                     echo "<td>".$row["name"]."</td>";
-                    echo "<td>".$row["description"]."</td>";
+                    echo "<td>".$row["desc"]."</td>";
                     echo "<td>".$row["hits"]."</td>";
                     echo "</tr>";
                 }
@@ -58,7 +58,7 @@
                     $row = $result->fetch_assoc();
                     echo "<tr>";
                     echo "<td>".$row["name"]."</td>";
-                    echo "<td>".$row["description"]."</td>";
+                    echo "<td>".$row["desc"]."</td>";
                     echo "<td>".$max."</td>";
                     echo "</tr>";
                     unset($heatmap[$maxid]);    
@@ -90,7 +90,7 @@
                             $row = $result->fetch_assoc();
                             echo "<tr>";
                             echo "<td>".$row["name"]."</td>";
-                            echo "<td>".$row["description"]."</td>";
+                            echo "<td>".$row["desc"]."</td>";
                             echo "</tr>";
                             array_push($viewed,$hits[$i]);
                         }
