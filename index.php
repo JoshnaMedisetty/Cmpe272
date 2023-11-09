@@ -261,7 +261,7 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
             Explore CryptoGuard today and experience a new level of confidence in managing your cryptocurrency investments.
           </p>
           <a href="./tops.php">
-                <h3 > Click here for our Most Visited Classes</h3>
+                <h3 > <p> Click here for our Most Visited Classes</p></h3>
           </a>
         </div>
         <div class="row">
