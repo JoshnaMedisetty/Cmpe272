@@ -925,7 +925,7 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
     <div class="container">
       <p>
         &copy; <span id="displayYear"></span> All Rights Reserved By
-        <a href="https://html.design/">Free Html Templates</a>
+        <a>CryptoGuard</a>
       </p>
     </div>
   </section>
