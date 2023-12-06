@@ -454,7 +454,7 @@ a:focus {
 }
 
 .service_section .box .detail-box a:hover {
-  color: #00bbf0;
+  color: #000000;
 }
 
 .service_section .btn-box {
@@ -506,7 +506,7 @@ a:focus {
 }
 
 .about_section .detail-box p {
-  color: #000000;
+  color: #ffffff;
   margin-top: 15px;
 }
 
