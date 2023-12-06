@@ -285,7 +285,7 @@ a:focus {
 }
 
 .slider_section .detail-box p {
-  color: #000000;
+  color: #fefefe;
   font-size: 14px;
 }
 
@@ -506,6 +506,7 @@ a:focus {
 }
 
 .about_section .detail-box p {
+  color: #000000;
   margin-top: 15px;
 }
 
