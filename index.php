@@ -81,6 +81,9 @@ if ($err === "login") echo "<script>alert('Invalid login!');</script>";
                 <a class="nav-link" href="team.php">Contact</a>
               </li>
               <li class="nav-item">
+                <a class="nav-link" href="about.php">Register</a>
+              </li>
+              <li class="nav-item">
 <!--                 <a class="nav-link" href="#"> <i class="fa fa-user" aria-hidden="true"></i> Login</a> -->
                       <a href="#" class="nav-link smoothScroll btn custom-btn bg-color" data-aos="fade-up" data-aos-delay="300" data-toggle="modal" data-target="#loginForm">Log in</a>
 
